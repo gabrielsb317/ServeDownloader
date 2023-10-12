@@ -22,3 +22,6 @@ euro_truck_simulator
 euro_truck_simulator2
 cookie_clicker
 assassins_creed_rogue
+Limbo
+ResidentEvil4
+WatchDogs2
