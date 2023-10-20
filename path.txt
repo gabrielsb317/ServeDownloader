@@ -25,3 +25,6 @@ assassins_creed_rogue
 Limbo
 ResidentEvil4
 WatchDogs2
+fifa13
+fifa12
+farcry4
