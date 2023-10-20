@@ -3,6 +3,7 @@ call_of_duty_mw_3
 Cuphead
 donut-count
 far_cry_3
+far_cry_4
 friday-night-funkin
 gta_iv
 gta_san
@@ -27,4 +28,3 @@ ResidentEvil4
 WatchDogs2
 fifa13
 fifa12
-far_cry_4
